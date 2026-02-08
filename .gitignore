@@ -10,6 +10,7 @@ dist/
 *.egg
 *.DS_Store
 venv/
+.venv
 ENV/
 env/
 .vscode/
